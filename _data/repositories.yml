@@ -1,12 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - edraizen
+  - bouralab
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - bouralab/Prop3D
+  - bouralab/DeepUrfold
+  - edraizen/HistoneDB
+  - edraizen/6CysDB
+  - edraizen/hsp_tiler
+  - edraizen/HMMPileUp
