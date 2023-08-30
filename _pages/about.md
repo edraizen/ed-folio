@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: University of Virginia (till December 8th then ??)
+subtitle:
 
 profile:
   align: right
