@@ -20,18 +20,26 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Postdoctoral Scholar
+      institution: University of California, San Francisco
+      year: June 2023 - Present
+      description:
+        - Bayesian Meta-modeling with deep generative models
+        - Protein-protein interactions and whole cell modeling
+        - Explainable AI for protein evolution
+      
+    - title: PhD Candidate
+      institution: University of Virginia, Charlottesville, VA
+      year: Jan 2018-Dec 2022
+      description:
+        - Developed <i>Prop3D</i>, a python framework to compute atomic, residue and graph level physicochemcal properties for all CATH domains in the cloud and shared using HSDS
+        - Developed <i>DeepUrfold</i> and <i>DeepUrfold-explain</i>, explainable deep generative models to explore remote relationships between CATH superfamilies at the Urfold level (e.g. discontinous peptide fragments)
+
     - title: Machine Learning Intern
       institution: VantAI, New York, NY
       year: Apr-Aug 2022
       description:
-
-    - title: PhD Candidate
-      institution: University of Virginia, Charlottesville, VA
-      year: Jan 2018-
-      description:
-        - Developed <i>Prop3D</i>, a python framework to compute atomic, residue and graph level physicochemcal properties for all CATh domain in the cloud and share using HSDS
-        - Developed <i>DeepUrfold</i> and <i>DeepUrfold-explain</i>, explainable deep generative models to explore remote relationships between CATH superfamilies at the Urfold level (e.g. discontinoud peptide fragments)
-
+      
     - title: Predoctoral Fellow
       institution: National Institutes of Health, Bethesda, MD
       year: Sep 2015-Aug 2018
